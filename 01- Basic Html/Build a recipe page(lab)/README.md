@@ -15,4 +15,4 @@ Este proyecto consiste en crear una página web que muestre una receta de cocina
 8. **Debe tener una lista desordenada `<ul>` con al menos cuatro elementos `<li>` que enumeren los ingredientes.**
 9. **Debe tener un tercer elemento `<h2>` con el texto "Instructions" para la sección de instrucciones.**
 10. **Debe tener una lista ordenada `<ol>` con al menos cuatro elementos `<li>` que enumeren los pasos de la receta.**
-11. **Debe tener un elemento `<img>` con un atributo `src` que apunte a una imagen válida. Puedes usar [esta imagen](https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg) si lo deseas, y un atributo `alt` describiendo la imagen.**
+11. **Debe tener un elemento `<img>` con un atributo `src` que apunte a una imagen válida. y un atributo `alt` describiendo la imagen.**
